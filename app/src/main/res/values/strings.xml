@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica RSA</string>
+    <string name="instruction">Introduce un texto a cifrar:</string>
+    <string name="boton">Encriptar</string>
+    <string name="encoded_title">Texto cifrado:</string>
+    <string name="decoded_title">Texto descifrado:</string>
+
+</resources>
